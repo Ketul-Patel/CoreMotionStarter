@@ -156,6 +156,8 @@
 		7C4436121B28DE040030EF1C /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0730;
+				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = "Ketul Patel";
 				TargetAttributes = {
@@ -411,6 +413,7 @@
 				7C44363B1B28DE040030EF1C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7C44363C1B28DE040030EF1C /* Build configuration list for PBXNativeTarget "CoreMotionStarterTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +422,7 @@
 				7C44363E1B28DE040030EF1C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
